@@ -1,0 +1,33 @@
+body {
+    background-color: chocolate;
+}
+
+.booking-form {
+    background-color:brown;
+    margin-right: 75%;
+    padding: 1rem 0.5rem;
+}
+.heading {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.inputs {
+    font-size: 18px;
+    padding: 0.5rem;
+
+}
+
+.buttons {
+    padding: 0.5rem;
+}
+
+
+.btn{
+    margin: 5px;
+}
+
+
+.users {
+    padding: 0.5rem;
+    
+}
